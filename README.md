@@ -1,0 +1,1 @@
+-GET /health - returns{"stattus":"ok"}
